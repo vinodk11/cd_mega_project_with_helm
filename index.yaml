@@ -3,12 +3,12 @@ entries:
   bankapp-project:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2025-10-29T20:42:26.055328804+05:30"
+    created: "2025-10-29T21:33:39.112835409+05:30"
     description: A Helm chart for Kubernetes
     digest: a48673b33b41e98c92b0e52cdfb483c9659f9b6812c6dacb3876e76e06fecca1
     name: bankapp-project
     type: application
     urls:
-    - https://github.com/vinodk11/cd_mega_project_with_helm.git/bankapp-project-0.1.0.tgz
+    - https://vinodk11.github.io/cd_mega_project_with_helm/bankapp-project-0.1.0.tgz
     version: 0.1.0
-generated: "2025-10-29T20:42:26.054210025+05:30"
+generated: "2025-10-29T21:33:39.111963893+05:30"
